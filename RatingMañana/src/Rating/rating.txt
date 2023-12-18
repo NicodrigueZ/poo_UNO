@@ -1,0 +1,7 @@
+13,Los 8 Escalones,24.5
+11,Gran Hermano,34.5
+15,MDQ 2022,8.7
+11,Telefe,10.4
+12,Volver,11.5
+2,LAM,4.5
+
